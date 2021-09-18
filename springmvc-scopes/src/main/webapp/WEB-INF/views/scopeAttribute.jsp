@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Display session</title>
+<title>Scope attribute</title>
 </head>
 <body>
-	<p>Login : ${Login}</p>
-	<p>Pass : ${Pass}</p>
-	<p>Other : ${other}</p>
-	<p>App name : ${appName}</p>
+	<h1>Welcome to ${appName}</h1>
 </body>
 </html>
